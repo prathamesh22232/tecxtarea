@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tecxtarea-React/static/css/main.f855e6bc.css",
-    "main.js": "/tecxtarea-React/static/js/main.91ff0f2a.js",
-    "static/js/453.02b6ed6f.chunk.js": "/tecxtarea-React/static/js/453.02b6ed6f.chunk.js",
-    "index.html": "/tecxtarea-React/index.html",
-    "main.f855e6bc.css.map": "/tecxtarea-React/static/css/main.f855e6bc.css.map",
-    "main.91ff0f2a.js.map": "/tecxtarea-React/static/js/main.91ff0f2a.js.map",
-    "453.02b6ed6f.chunk.js.map": "/tecxtarea-React/static/js/453.02b6ed6f.chunk.js.map"
+    "main.css": "/texctarea/static/css/main.f855e6bc.css",
+    "main.js": "/texctarea/static/js/main.e6879dc5.js",
+    "static/js/453.02b6ed6f.chunk.js": "/texctarea/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/texctarea/index.html",
+    "main.f855e6bc.css.map": "/texctarea/static/css/main.f855e6bc.css.map",
+    "main.e6879dc5.js.map": "/texctarea/static/js/main.e6879dc5.js.map",
+    "453.02b6ed6f.chunk.js.map": "/texctarea/static/js/453.02b6ed6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.91ff0f2a.js"
+    "static/js/main.e6879dc5.js"
   ]
 }
