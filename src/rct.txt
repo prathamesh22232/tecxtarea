@@ -1,0 +1,9 @@
+react components use props to communicate with each other
+props might remind you HTML attributes
+props are information that you pass to HTML tag
+Props let you think about parent and child components independently
+
+If you want to give a prop a default value to fall back on when no value is specified,
+ you can do it with the destructuring by putting = and the default value right after the parameter:
+
+ Props reflect a component’s data at any point in time, rather than only in the beginning.
