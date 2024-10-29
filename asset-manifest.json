@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tecxtarea/static/css/main.f855e6bc.css",
+    "main.js": "/tecxtarea/static/js/main.3960e702.js",
+    "static/js/453.02b6ed6f.chunk.js": "/tecxtarea/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/tecxtarea/index.html",
+    "main.f855e6bc.css.map": "/tecxtarea/static/css/main.f855e6bc.css.map",
+    "main.3960e702.js.map": "/tecxtarea/static/js/main.3960e702.js.map",
+    "453.02b6ed6f.chunk.js.map": "/tecxtarea/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3960e702.js"
+  ]
+}
